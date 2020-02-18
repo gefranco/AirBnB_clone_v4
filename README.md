@@ -217,6 +217,8 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* Germán Franco, [gefranco](https://github.com/gefranco) | [@gefrancof](https://twitter.com/gefrancof)
+* Sergio Rueda, [sechchr22](https://github.com/sechchr22) | [@sechchr](https://twitter.com/sechchr)
 
 ## License
 
